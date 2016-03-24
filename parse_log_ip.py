@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
-'''
-This file will extract the ip address from a file and return it as a dictionary data structure 
-with the line number as the key and the value as a nested dictionary with 'ip' as the key and 
-the ip address as the value
-'''
+###############################################################################################
+## This file will extract the ip address from a file and return it as a dictionary data structure 
+## with the line number as the key and the value as a nested dictionary with 'ip' as the key and 
+## the ip address as the value
+################################################################################################
 
 import re
 
